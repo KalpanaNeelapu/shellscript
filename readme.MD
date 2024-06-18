@@ -17,5 +17,5 @@ git push -u origin main
 
 
 '''
-git add . ; git commit -m "messgae" ; git push - u origin main
+git add . ; git commit -m "hello script" ; git push -u origin main
 '''
